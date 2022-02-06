@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/Abdon-Fonteles/qrcode/blob/b56e2baa8b6082e6b35a93a11058a544e8823c9e/index.html)
-- Live Site URL: [Click here](https://Abdon-Fonteles.github.io/qrcodecomponent/)
+- Solution URL: [Click here](https://github.com/Abdon-Fonteles/qrcode0/blob/640481b56ce811c364dbfa40e67a548a051a042a/index.html)
+- Live Site URL: [Click here](https://Abdon-Fonteles.github.io/qrcode0/)
 
 
 ## My process
